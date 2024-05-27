@@ -81,9 +81,9 @@ function Proyecto(){
         <div id="proyecto-container">
             <ElProyecto/>
             <ElCondominio/>
-            <div className='d-flex justify-content-center mt-4'>
+            {/* <div className='d-flex justify-content-center mt-4'>
                 <button onClick={()=> window.open('./brochure.pdf','_blank')} className='button'>VER BROCHURE DIGITAL</button>
-            </div>
+            </div> */}
         </div>
     )
 }

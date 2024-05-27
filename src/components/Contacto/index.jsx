@@ -59,7 +59,7 @@ function Formulario(){
 			Telefono: ${telefono}
     `
     const info = {
-      to:'info@parcelaciondonadominga.cl , ventas@parcelaciondonadominga.cl',
+      to:'info@haciendaelbarro.cl',
       replyTo: email,
       subject:'Formulario Contacto',
       text:message,
@@ -147,7 +147,7 @@ function Formulario(){
   )
 }
 function Contacto() {
-  const handleOnClick = () =>  window.open('https://api.whatsapp.com/send/?phone=56927022045')
+  const handleOnClick = () =>  window.open('https://api.whatsapp.com/send/?phone=56958580693')
   return (
     <div id="contacto" className="section bg-white">
         <Container>
@@ -160,19 +160,19 @@ function Contacto() {
             <Row className="pt-5 pb-5">
                 <Col sm="12" md="6">
                   <div className="d-flex ps-3">
-                    <img src={Logo} style={{width:'200px', paddingRight:'10px'}} alt="logo"/>
+                    <img src={Logo} style={{width:'150px', paddingRight:'10px'}} alt="logo"/>
                     {/* <img src={Logo} style={{width:'140px', objectFit:'contain'}} alt="logo"/> */}
                   </div>
                   <div className="pt-4 ps-3">
                     <h3>Información de Ventas</h3>
                     <div className="d-flex pb-3 pt-4">
-                      <PhoneCall/><a className="ps-3" href="tel:+56972147172">Nicole Westermayer</a>
+                      <PhoneCall/><a className="ps-3" href="tel:+56xxx">Nombre Apellido</a>
                     </div>
                     <div className="d-flex pb-3">
-                      <Email/> <a className="ps-3" href="mailto:ventas@parcelaciondonadominga.cl">ventas@parcelaciondonadominga.cl</a>
+                      <Email/> <a className="ps-3" href="mailto:ventas@xxx.cl">xxx@haciendaelbarro.cl</a>
                     </div>
                     <div className="d-flex pb-3" onClick={ handleOnClick }>
-                      <LogoWhatsapp width={36} height={36}/><a className="ps-3" href="https://api.whatsapp.com/send/?phone=56972147172">+56 97214 7172</a>
+                      <LogoWhatsapp width={36} height={36}/><a className="ps-3" href="https://api.whatsapp.com/send/?phone=56958580693">+56 9 5858 0693</a>
                     </div>
                   </div>
                 </Col>

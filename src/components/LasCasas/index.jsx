@@ -7,29 +7,32 @@ function LasCasas() {
             <Row>
                 <Col md="4" className='d-flex align-items-center'>
                     <div className='mb-5 ms-3'>
-                        <h3>Agustin Rivas Vey</h3>
-                        <h5>Arquitecto</h5>
+                        <h3>Monanti</h3>
+                        <h5>Constructora</h5>
                         <div style={{ width:'80px', display:'flex', justifyContent:'space-between'}}>
-                            <a href="https://www.instagram.com/Arv.arquitectura/"><LogoInstagramBN width="32px" height="32px"/></a>
-                            <a href="https://api.whatsapp.com/send/?phone=56934178361"><LogoWhatsappBN width="32px" height="32px"/></a>
+                            <a href="https://www.instagram.com/#/"><LogoInstagramBN width="32px" height="32px"/></a>
+                            <a href="https://api.whatsapp.com/send/?phone=#"><LogoWhatsappBN width="32px" height="32px"/></a>
                         </div>
                     </div>
                 </Col>
                 <Col md="8">
                     <p>
-                        Construir una casa es un lindo proceso, una oportunidad que no se da muchas veces 
-                        en la vida, hacerlo con buenos profesionales es fundamental para disfrutarlo y 
-                        vivirlo de la mejor forma posible.<br/>
-
-                        Un proyecto arquitectónico se basa en ofrecer a las personas un lugar que se adapte 
-                        a sus necesidades de habitabilidad, permitiendo que los diferentes espacios puedan 
-                        ser únicos, diseñados de acuerdo a los requerimientos específicos de los residentes.
-                        <br/> 
-                        Acá puedes revisar algunos de los proyectos diseñados por la oficina ARV arquitectura 
-                        y construcción, 
-                        quienes se han especializado tanto en el diseño como en la ejecución de los mismos, 
-                        adecuándose a las complejidades de construir en el sur de Chile.
+                        Constructora Monanti. <br/>Nuestro destacado proyecto, 
+                        la Casa Modular Quillay, estructura completamente transportable, 
+                        fabricada en taller y trasladada hasta el terreno final, 
+                        27 m² en un solo piso, 1 dormitorio, 1 baño, Living-Comedor, 
+                        Cocina Integrada. <br/>
+                        Entrega en solo *6 semanas* Posibilidad de personalización y expansión.<br/> 
+                        Arquitectos disponibles para adaptar el diseño a tus preferencias. <br/>
+                        Esta estructura es completamente transportable. <br/>
+                        Solicita una cotización personalizada.
                     </p>
+                    
+                </Col>
+                <Col>
+                    <div className='d-flex justify-content-center mt-4'>
+                        <button onClick={()=> window.open('./brochure.pdf','_blank')} className='button'>VER BROCHURE DIGITAL</button>
+                    </div>
                 </Col>
             </Row>
         </Container>
