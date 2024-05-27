@@ -3,12 +3,12 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Autoplay } from "swiper";
 import 'swiper/css';
 import "swiper/css/navigation";
-import DpImage from '../../assets/images/render-interior/imagen1.jpg';
-import SeImage from '../../assets/images/render-interior/imagen2.jpg';
-import LivingImage from '../../assets/images/render-interior/imagen3.jpg';
-import ComedorImage from '../../assets/images/render-interior/imagen4.jpg';
-import D1Image from '../../assets/images/render-interior/imagen5.jpg';
-import VCImage from '../../assets/images/render-interior/imagen6.jpg';
+import DpImage from '../../assets/images/render-interior/render1.jpg';
+import SeImage from '../../assets/images/render-interior/render2.jpg';
+import LivingImage from '../../assets/images/render-interior/render3.jpg';
+import ComedorImage from '../../assets/images/render-interior/render4.jpg';
+import D1Image from '../../assets/images/render-interior/render5.jpg';
+import VCImage from '../../assets/images/render-interior/render6.jpg';
 
 function RenderInterior() {
     return (

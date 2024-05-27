@@ -3,7 +3,7 @@ import Header from "./components/Header"
 import Navigator from "./components/Navigator"
 import Proyecto from "./components/Proyecto"
 // import Cotiza from "./components/Cotiza"
-// import RenderInterior from "./components/RenderInterior"
+import RenderInterior from "./components/RenderInterior"
 import LasCasas from "./components/LasCasas"
 import BarrioEntorno from "./components/BarrioEntorno"
 import Masterplan360 from "./components/Masterplan360"
@@ -22,7 +22,7 @@ function App() {
         <Proyecto/>
         {/* <Emplazamiento/> */}
         {/* <Cotiza/> */}
-        {/* <RenderInterior/> */}
+        <RenderInterior/>
         <LasCasas/>
         <BarrioEntorno/>
         <Masterplan360/>
