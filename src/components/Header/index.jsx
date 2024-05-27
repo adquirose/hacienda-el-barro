@@ -75,9 +75,9 @@ function Header() {
                     <Row className='justify-content-center'>
                       <Col className='col-md-4 col-12'>
                         <p style={{fontFamily:'Josefin Sans', lineHeight:'1',fontSize:'30px', fontWeight:'500', marginBottom:0}} className='text-center'>
-                          vive y disfruta en
+                          Vive y Disfruta en
                         </p>
-                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1.1', fontSize:'42px', fontWeight:'500',marginBottom:0}} className='text-center'>parcelas urbanizadas </p>
+                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1.1', fontSize:'42px', fontWeight:'500',marginBottom:0}} className='text-center'>Parcelas Urbanizadas </p>
                         <p style={{fontFamily:'Josefin Sans', lineHeight:'1', fontSize:'22px', fontWeight:'200',marginBottom:0}} className='text-center'>con excelente conectividad en un entorno cordillerano</p>
                       </Col>
                     </Row>  

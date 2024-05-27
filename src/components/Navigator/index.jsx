@@ -36,7 +36,7 @@ function Navigator() {
                         <li className='bold pt-3'>PROYECTO EN VENTA</li>
                         <li><a onClick={toggle} href="#proyecto">El Proyecto</a></li>
                         <li><a onClick={toggle} href="#urbanizacion">Urbanización</a></li>
-                        <li><a onClick={toggle} href="#emplazamiento">Emplazamiento</a></li>
+                        {/* <li><a onClick={toggle} href="#emplazamiento">Emplazamiento</a></li> */}
                         {/* <li><a onClick={toggle} href="#cotiza">Plantas</a></li> */}
                         <li><a onClick={toggle} href="#arquitectura">Arquitectura</a></li>
                         <li><a onClick={toggle} href="#barrio-entorno">Barrio y entorno</a></li>
@@ -53,7 +53,7 @@ function Navigator() {
         <div id="navigator">
             <Container className='fixed-top pt-5'>
                 <Row className='d-flex justify-content-between flex-row px-5'>
-                    <div style={{width:'200px', height:'100%'}}>
+                    <div style={{width:'120px', height:'100%'}}>
                         { logoVisible && 
                             <img style={{width:'100%'}} src={Logo} className='logo-hacienda' alt="img-logo" />
                         }
