@@ -5,7 +5,7 @@ function Masterplan360() {
     <div id="masterplan360" className='section'>
         <Container>
             <Row>
-                <iframe src='https://www.lanube360.com/dona-dominga/' title="masterplan" allowFullScreen></iframe>
+                <iframe src='https://www.lanube360.com/temporales/hacienda-barro3/' title="masterplan" allowFullScreen></iframe>
             </Row>
         </Container>
     </div>

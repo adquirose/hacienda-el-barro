@@ -23,13 +23,12 @@ function ElCondominio(){
                             <div className='subraya bg-white'/>
                         </div>
                         <p>
-                            La parcelación cuenta con portón de acceso, agua de pozo, 
-                            luz y posibilidad de fibra óptica. <br/>
-                            Además contamos con alianzas estratégicas que te ayudarán a realizar 
-                            tus caminos de acceso, movimiento de tierras, limpieza de terreno,
-                            entrega de áridos, jardinería u otra tarea similar que podrías necesitar 
-                            para la construcción de tu casa.
-
+                            La parcelación cuenta con portón de acceso, con sistema de apertura con teléfono celular, 
+                            agua de pozo comunitaria con remarcador de agua en cada unidad, 
+                            postes de luz en los pasos de servidumbres, para conexión de sus empalmes 
+                            y posibilidad de fibra óptica.
+                            Además contamos con alianzas estratégicas que le ayudarán a realizar movimientos de tierra, 
+                            limpieza de terreno, u otros que requiera para la construcción de su casa.
                         </p>
                     </Col>
                 </Row>
@@ -48,11 +47,18 @@ function ElProyecto() {
                         <div className='subraya bg-white'/>
                     </div>
                     <p>
-                        Parcelación Doña Dominga es un proyecto donde los sueños toman forma. <br/>
-                        Un lugar pensado para la familia que ofrece amplios espacios
-                        en torno a la naturaleza. 
-                        Una propuesta estratégica para vivir de forma tranquila, 
-                        pero siempre conectado con la ciudad.
+                        El Proyecto "Hacienda El Barro" nace de un sueño familiar de dos hermanos, 
+                        Anton y Marycarmen, en dejar sus huellas plasmadas en estas tierras fértiles 
+                        y en producción de diversos frutos que generosamente la naturaleza favorece 
+                        su cosecha con el riego natural de sus aguas cordilleranas que abundan en sus napas.
+                        <br/>
+                        En parte las tierras familiares se han convertido en esta primera etapa, 
+                        en 46 unidades de parcelas urbanizadas con luz y agua, de 5.000 m2 aproximados cada una, 
+                        donde los sueños de cada uno de sus nuevos propietarios toman forma y se van 
+                        materializando a medida que las fuerzas y los recursos los acompañan.
+                        Un lugar pensado para la familia que ofrece amplios espacios en torno 
+                        a la naturaleza y sus montañas. Una propuesta estratégica para vivir de 
+                        forma tranquila, pero siempre conectado con la ciudad.
                     </p>
                 </Col>
                 <Col sm="12" md="6" className='order-1 order-md-2'>

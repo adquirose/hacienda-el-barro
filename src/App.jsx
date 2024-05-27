@@ -1,11 +1,11 @@
-import Emplazamiento from "./components/Emplazamiento"
+// import Emplazamiento from "./components/Emplazamiento"
 import Header from "./components/Header"
 import Navigator from "./components/Navigator"
 import Proyecto from "./components/Proyecto"
 // import Cotiza from "./components/Cotiza"
-import RenderInterior from "./components/RenderInterior"
+// import RenderInterior from "./components/RenderInterior"
 import LasCasas from "./components/LasCasas"
-import BarrioEntorno from "./components/BarrioEntorno"
+// import BarrioEntorno from "./components/BarrioEntorno"
 import Masterplan360 from "./components/Masterplan360"
 import LifeStyle from "./components/LifeStyle"
 import Ubicacion from "./components/Ubicacion"
@@ -20,11 +20,11 @@ function App() {
         <Navigator/>
         <Header/>
         <Proyecto/>
-        <Emplazamiento/>
+        {/* <Emplazamiento/> */}
         {/* <Cotiza/> */}
-        <RenderInterior/>
+        {/* <RenderInterior/> */}
         <LasCasas/>
-        <BarrioEntorno/>
+        {/* <BarrioEntorno/> */}
         <Masterplan360/>
         <LifeStyle/>
         <Ubicacion/>

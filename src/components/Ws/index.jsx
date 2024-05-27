@@ -12,10 +12,10 @@ function Ws() {
             right:'30px', 
             cursor:'pointer'
         }}>
-          <div className="pb-2" onClick={ () => {window.open('https://api.whatsapp.com/send/?phone=56972142535')}}>
+          <div className="pb-2" onClick={ () => {window.open('https://api.whatsapp.com/send/?phone=56958580693')}}>
             <LogoWhatsapp />
           </div>
-          <div onClick={ () => {window.open('https://www.instagram.com/donadomingaparcelas/')}}>
+          <div onClick={ () => {window.open('https://www.instagram.com/haciendaelbarro/')}}>
             <LogoInstagram />
           </div>
     </div>

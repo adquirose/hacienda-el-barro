@@ -75,10 +75,10 @@ function Header() {
                     <Row className='justify-content-center'>
                       <Col className='col-md-4 col-12'>
                         <p style={{fontFamily:'Josefin Sans', lineHeight:'1',fontSize:'30px', fontWeight:'500', marginBottom:0}} className='text-center'>
-                          vive inmerso en la
+                          vive y disfruta en
                         </p>
-                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1.1', fontSize:'42px', fontWeight:'500',marginBottom:0}} className='text-center'>NATURALEZA</p>
-                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1', fontSize:'22px', fontWeight:'200',marginBottom:0}} className='text-center'>a sólo minutos de la ciudad.</p>
+                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1.1', fontSize:'42px', fontWeight:'500',marginBottom:0}} className='text-center'>parcelas urbanizadas </p>
+                        <p style={{fontFamily:'Josefin Sans', lineHeight:'1', fontSize:'22px', fontWeight:'200',marginBottom:0}} className='text-center'>con excelente conectividad en un entorno cordillerano</p>
                       </Col>
                     </Row>  
                   </Container>
