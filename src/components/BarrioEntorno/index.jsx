@@ -32,32 +32,22 @@ function BarrioEntorno() {
                 <SquarePin width="32" height="32" color="white" /><span className='ps-2'>UBICACIÓN</span>
               </div>
               <List>
-                <li>Puerto Varas a 9 min.</li>
-                <li>Puerto Montt a 15 min.</li>
-                <li>Aeropuerto a 30 min.</li>
-                <li>Ensenada a 45 min.</li>
-                <li>Ruta 5 a 8 min.</li> 
+                <li>San Esteban 15 min</li>
+                <li>Los Andes 25 min</li>
+                <li>San Felipe 30 min</li>
+                <li>Santiago 60 min</li>
+                <li>Paso Internacional 1 hr. 30 min</li>
               </List>
             </div>
             <div>
               <div className='pb-2'>
-                <ShoppingBag/><span className='ps-2'>CENTROS COMERCIALES</span>
+                <ShoppingBag/><span className='ps-2'>ENTRETENCIÓN</span>
               </div>
               <List>
-                <li>Mall Paseo Alerce</li>
-                <li>Centro Comercial Doña Ema</li>
-                <li>Supermercado</li>
-                <li>Stripcenter</li>
-              </List>
-            </div>
-            <div>
-              <div className='pb-2'>
-                <Athletics width="36" height="36" color="white"/><span className='ps-2'>CENTROS DEPORTIVOS</span>
-              </div>
-              <List>
-                <li>Match Point Tenis</li>
-                <li>Club de Tenis Puerto Varas</li>
-                <li>Complejo Deportivo Mirador</li>
+                <li>Casino Enjoy 30 min.</li>
+                <li>Ski Portillo 60 min</li>
+                <li>Termas del Corazón 15 min</li>
+                <li>Santuario Santa Teresa 30 min</li>
               </List>
             </div>
           </Col>

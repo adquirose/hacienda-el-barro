@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Container, Row } from 'reactstrap';
 import { ERemove, Menu8 } from '../Icons';
-import Logo from '../../assets/images/logo.png'
+import Logo from '../../assets/images/logo-barro.png'
 
 function Navigator() {
     const [isOpen, setIsOpen] = useState(false);
@@ -55,7 +55,7 @@ function Navigator() {
                 <Row className='d-flex justify-content-between flex-row px-5'>
                     <div style={{width:'200px', height:'100%'}}>
                         { logoVisible && 
-                            <img style={{width:'100%'}} src={Logo} className='logo-vista-lomas' alt="img-logo" />
+                            <img style={{width:'100%'}} src={Logo} className='logo-hacienda' alt="img-logo" />
                         }
                     </div>
                     <div style={{width:'50px', padding:0}}>

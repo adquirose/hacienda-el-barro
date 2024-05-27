@@ -5,7 +5,7 @@ import Proyecto from "./components/Proyecto"
 // import Cotiza from "./components/Cotiza"
 // import RenderInterior from "./components/RenderInterior"
 import LasCasas from "./components/LasCasas"
-// import BarrioEntorno from "./components/BarrioEntorno"
+import BarrioEntorno from "./components/BarrioEntorno"
 import Masterplan360 from "./components/Masterplan360"
 import LifeStyle from "./components/LifeStyle"
 import Ubicacion from "./components/Ubicacion"
@@ -24,7 +24,7 @@ function App() {
         {/* <Cotiza/> */}
         {/* <RenderInterior/> */}
         <LasCasas/>
-        {/* <BarrioEntorno/> */}
+        <BarrioEntorno/>
         <Masterplan360/>
         <LifeStyle/>
         <Ubicacion/>
