@@ -22,7 +22,7 @@ const Card= () => {
           </div>
           <div style={{paddingBottom:'10px', paddingTop:'10px'}}>
             <span style={{fontFamily:'Josefin Sans', fontSize:'110px', fontWeight:'600', lineHeight:1}}>
-              1.590
+              1.500
             </span> 
             <span style={{fontFamily:'Josefin Sans', fontSize:'40px', fontWeight:'400'}}>
               UF

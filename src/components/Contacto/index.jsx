@@ -59,7 +59,7 @@ function Formulario(){
 			Telefono: ${telefono}
     `
     const info = {
-      to:'info@haciendaelbarro.cl',
+      to:'contacto@haciendaelbarro.cl ',
       replyTo: email,
       subject:'Formulario Contacto',
       text:message,
@@ -166,10 +166,10 @@ function Contacto() {
                   <div className="pt-4 ps-3">
                     <h3>Información de Ventas</h3>
                     <div className="d-flex pb-3 pt-4">
-                      <PhoneCall/><a className="ps-3" href="tel:+56xxx">Nombre Apellido</a>
+                      <PhoneCall/><a className="ps-3" href="tel:+56992498605">+56 9 9249 8605</a>
                     </div>
                     <div className="d-flex pb-3">
-                      <Email/> <a className="ps-3" href="mailto:ventas@xxx.cl">xxx@haciendaelbarro.cl</a>
+                      <Email/> <a className="ps-3" href="mailto:contacto@haciendaelbarro.cl">contacto@haciendaelbarro.cl</a>
                     </div>
                     <div className="d-flex pb-3" onClick={ handleOnClick }>
                       <LogoWhatsapp width={36} height={36}/><a className="ps-3" href="https://api.whatsapp.com/send/?phone=56958580693">+56 9 5858 0693</a>
