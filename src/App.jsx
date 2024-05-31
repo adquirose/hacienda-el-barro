@@ -11,7 +11,7 @@ import LifeStyle from "./components/LifeStyle"
 import Ubicacion from "./components/Ubicacion"
 import Contacto from "./components/Contacto"
 // import Perfil from "./components/Perfil"
-import Footer from "./components/Footer"
+// import Footer from "./components/Footer"
 import Ws from "./components/Ws"
 
 function App() {
@@ -30,7 +30,7 @@ function App() {
         <Ubicacion/>
         <Contacto/>
         {/* <Perfil/> */}
-        <Footer/>
+        {/* <Footer/> */}
         <Ws/>
     </>
   )

@@ -9,10 +9,10 @@ function LasCasas() {
                     <div className='mb-5 ms-3'>
                         <h3>Monanti</h3>
                         <h5>Constructora</h5>
-                        <div style={{ width:'80px', display:'flex', justifyContent:'space-between'}}>
+                        {/* <div style={{ width:'80px', display:'flex', justifyContent:'space-between'}}>
                             <a href="https://www.instagram.com/#/"><LogoInstagramBN width="32px" height="32px"/></a>
                             <a href="https://api.whatsapp.com/send/?phone=#"><LogoWhatsappBN width="32px" height="32px"/></a>
-                        </div>
+                        </div> */}
                     </div>
                 </Col>
                 <Col md="8">
