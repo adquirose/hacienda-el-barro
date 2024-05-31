@@ -22,7 +22,7 @@ function ElCondominio(){
                             <h2>URBANIZACIÓN</h2>
                             <div className='subraya bg-white'/>
                         </div>
-                        <p className='text-justify'>
+                        <p style={{textAlign:'justify'}}>
                             La parcelación cuenta con portón de acceso, con sistema de apertura con teléfono celular, 
                             agua de pozo comunitaria con remarcador de agua en cada unidad, 
                             postes de luz en los pasos de servidumbres, para conexión de sus empalmes 
@@ -53,7 +53,7 @@ function ElProyecto() {
                         <h2>EL PROYECTO</h2>
                         <div className='subraya bg-white'/>
                     </div>
-                    <p className='text-start'>
+                    <p style={{textAlign:'justify'}}>
                         El Proyecto "Hacienda El Barro" nace de un sueño familiar de dos hermanos, 
                         en dejar sus huellas plasmadas en estas tierras fértiles y en producción 
                         de diversos frutos que generosamente la naturaleza favorece su cosecha 

@@ -16,7 +16,7 @@ function LasCasas() {
                     </div>
                 </Col>
                 <Col md="8">
-                    <p>
+                    <p style={{textAlign:'justify'}}>
                         Constructora Monanti. <br/>Nuestro destacado proyecto, 
                         la Casa Modular Quillay, estructura completamente transportable, 
                         fabricada en taller y trasladada hasta el terreno final, 
